@@ -1,2 +1,5 @@
 # SpaceShooter
-Space shooter in C (Allegro5)
+Space shooter game written in C (Allegro5).
+
+Launch ./Release/Space_shooter to play.
+Have fun ;-)
